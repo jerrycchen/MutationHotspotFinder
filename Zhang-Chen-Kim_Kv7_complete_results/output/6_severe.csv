@@ -1,0 +1,10 @@
+"DOMAIN","OBSERVED","EXPECTED","RAW.P.VALUE","ADJ.P.VALUE"
+"Pre_Helix_A",1,0.50895,0.3963,1
+"Helix_A",4,1.24972,0.0339,0.3051
+"Helix_A_B_Linker",6,8.40994,0.8929,1
+"Helix_B",5,1.11331,0.0051,0.0459
+"Helix_B-C_Linker",6,0.56396,1e-04,9e-04
+"Helix_C",3,1.0285,0.0844,0.7596
+"Helix_C_D_Linker",0,1.35574,1,1
+"Helix_D",0,1.53165,1,1
+"Ankyrin_G_Binding",0,0.79978,1,1

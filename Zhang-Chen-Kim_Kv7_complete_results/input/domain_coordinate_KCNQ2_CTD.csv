@@ -1,0 +1,10 @@
+DOMAIN,START,END
+Pre_Helix_A,313,323
+Helix_A,324,350
+Helix_A_B_Linker,351,531
+Helix_B,532,555
+Helix_B-C_Linker,556,567
+Helix_C,568,589
+Helix_C_D_Linker,590,618
+Helix_D,619,651
+Ankyrin_G_Binding,832,848
