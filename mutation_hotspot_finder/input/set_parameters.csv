@@ -1,0 +1,2 @@
+Output,Coord,Start,End,Position
+example.csv,domain_coordinates.csv,1,872,mutation_positions.csv
