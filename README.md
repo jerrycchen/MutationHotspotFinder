@@ -15,4 +15,4 @@ For any question regarding the MHF algorithm, please feel free to reach out to:
 Jerry Chen (congcongjerry.chen@gmail.com)
 
 For any question regarding our paper, please contact:
-Dr. Hee Jung Chung (chunghj@illinois.edu.com)
+Dr. Hee Jung Chung (chunghj@illinois.edu)
